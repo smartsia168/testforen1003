@@ -1,2 +1,4 @@
 var test;
-test = test + 1;
+var a;
+a = 2;
+test = test + a +1;
